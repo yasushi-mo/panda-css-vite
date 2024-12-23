@@ -2,7 +2,7 @@ import { css } from "../styled-system/css";
 
 function App() {
   return (
-    <div className={css({ fontSize: "2xl", fontWeight: "bold" })}>
+    <div className={css({ fontSize: "8xl", fontWeight: "bold" })}>
       Hello 🐼!
     </div>
   );
